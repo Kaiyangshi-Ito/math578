@@ -26,9 +26,8 @@
 
 \fancyhead{}
 \fancyfoot{}
-\fancyhead[LO,LE]{Convex Analysis Book Summary}
-\fancyhead[CO,CE]{}
-\fancyhead[RE,RO]{Kai Yang}
+\fancyhead[LO]{\small MATH 598 Summarized Notes}% Odd page header and number to right top
+\fancyhead[RE]{\small K. Yang}% Even page header and number at left top
 \fancyfoot[CO,CE]{\thepage}
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\footrulewidth}{0.4pt}
