@@ -9,4 +9,4 @@ This repository serves as my study material collection and lab assignments submi
 - [Lab Assignment 3](Lab%20Assignments/Lab%20Assignment%203/lab_assignment_3.ipynb "Kai's MATH 578 lab assignment 3")
 ------------------------------
 
-My summarized, parsimonious notes for the class can be found [here](Summarized%20Notes/MATH578_summarized_notes.pdf "Kai's MATH 578 Summarized Notes") -- I prefer not to use markdown due to the tex packages I need to create this. 
+My summarized notes for the class can be found [here](Summarized%20Notes/MATH578_summarized_notes.pdf "Kai's MATH 578 Summarized Notes") -- I prefer not to use markdown due to the tex packages I needed to create this. 
