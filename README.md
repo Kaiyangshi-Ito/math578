@@ -9,7 +9,7 @@ This repository serves as my study material collection and lab assignments submi
 - [Lab Assignment 3](Lab%20Assignments/Lab%20Assignment%203/lab_assignment_3.ipynb "Kai's MATH 578 lab assignment 3")
 ------------------------------
 
-The slides created for my course seminar presentation can be found [here](Course%20Seminar/578_seminar_talk.pdf "Kai's MATH 578 Seminar Slides") -- it's a short($\approx 30$minutes) talk on SVD.
+The slides created for my course seminar presentation can be found [here](Course%20Seminar/578_seminar_talk.pdf "Kai's MATH 578 Seminar Slides") -- it's a short( $\approx 30$ minutes) talk on SVD.
 
 ------------------------------
 My organized and summarized notes based on the lecture notes from the class can be found [here](Student%20Notes/MATH578_student_notes.pdf "Kai's MATH 578 Student Notes") -- I prefer not to use markdown due to the tex packages I needed to create this. 
