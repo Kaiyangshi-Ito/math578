@@ -17,6 +17,6 @@ This repository serves as my study material collection and lab assignments submi
 The slides created for my course seminar presentation can be found [here](Course%20Seminar/578_seminar_talk.pdf "Kai's MATH 578 Seminar Slides") -- it's a 30 minutes short talk on SVD.
 
 ------------------------------
-My re-organized and summarized notes based on the course material can be found [here](Student%20Notes/MATH578_student_notes.pdf "Kai's MATH 578 Student Notes") -- I prefer not to use markdown due to the $\LaTeX$ packages I needed to create this. 
+My re-organized and summarized notes based on the course material can be found [here](Student%20Notes/MATH578_student_notes.pdf "Kai's MATH 578 Student Notes") -- I prefer not to use markdown due to the LaTeX packages I needed to create this. 
 
 
