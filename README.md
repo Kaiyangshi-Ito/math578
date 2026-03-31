@@ -20,3 +20,10 @@ The slides created for my course seminar presentation can be found [here](Course
 My re-organized and summarized notes based on the course material can be found [here](Student%20Notes/MATH578_student_notes.pdf "Kai's MATH 578 Student Notes") -- I prefer not to use markdown due to the LaTeX packages I needed to create this. 
 
 
+
+## ORCID ID: [0000-0001-5505-6886](https://orcid.org/0000-0001-5505-6886)
+
+
+![ORCID QR](ORCID_QR.png)
+
+
