@@ -27,3 +27,7 @@ My re-organized and summarized notes based on the course material can be found [
 ![ORCID QR](ORCID_QR.png)
 
 
+## [GPG Public key Fingerprint: 4F2E 5C28 852E DBD9 5641  19F0 8A0F D2A8 159D 9D72](https://keys.openpgp.org/vks/v1/by-fingerprint/4F2E5C28852EDBD9564119F08A0FD2A8159D9D72)
+
+
+
